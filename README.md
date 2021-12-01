@@ -22,4 +22,4 @@ The Three P's
 - Collin: Average parking meter price and number of locations (lower average price and more locations is better)
 
 ## Abstract
-Our team used three data sets -- all of which begin with the letter P -- to determine which neighborhood in Pittsburgh is the best. We used the metrics of public art installations, parking meters and prices, and acres of park land, to determine the best neighborhood. 
+Our team used three data sets -- all of which begin with the letter P -- to determine which neighborhood in Pittsburgh is the best. We used the metrics of public art installations, parking meters and prices, and acres of park land, to determine the best neighborhood. By taking the mutual best locations between our datasets, we were able to come to the conclusion that Squirell Hill is the best Neighborhood in Pittsburgh!
