@@ -2,7 +2,7 @@
 Repo to host code for the CMPINF0010 final project.
 
 ## Team Name
-We'll come up with a team name eventually.
+The Three P's
 
 ## Team Members
 - Sean Melko - sean.melko@pitt.edu
@@ -22,3 +22,4 @@ We'll come up with a team name eventually.
 - Collin: Average parking meter price and number of locations (lower average price and more locations is better)
 
 ## Abstract
+Our team used three data sets -- all of which begin with the letter P -- to determine which neighborhood in Pittsburgh is the best. We used the metrics of public art installations, parking meters and prices, and acres of park land, to determine the best neighborhood. 
